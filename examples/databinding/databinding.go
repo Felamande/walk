@@ -9,9 +9,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/lxn/walk"
+	"github.com/Felamande/walk"
 
-	. "github.com/lxn/walk/declarative"
+	. "github.com/Felamande/walk/declarative"
 )
 
 func main() {
